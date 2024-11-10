@@ -1,5 +1,5 @@
 # Storefront Backend API Project
-
+This is a backend API build in Nodejs for an online store. It exposes a RESTful API that will be used by the frontend developer on the frontend.
 
 ## Installing
 
